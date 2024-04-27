@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Fact.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+F:\Study\Проекты VS\Matrix\MyForm.h(890,6): warning C4101: sum: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+F:\Study\Проекты VS\Matrix\MyForm.h(917,6): warning C4101: sum: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Fact.vcxproj -> F:\Study\Проекты VS\Matrix\x64\Debug\TableGrid.exe
